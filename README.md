@@ -11,13 +11,12 @@ This project aims to create a mobile/web application that teaches users how to g
 
 ## Design 
 
-ERD Design (Prone to change): 
+### ERD Design (Prone to change): 
 <img width="1049" height="530" alt="Screenshot 2025-11-03 at 4 40 16 PM" src="https://github.com/user-attachments/assets/043d2bc4-3d93-4b36-a28f-1fcb01464d65" />
 
-System Design Sketch: 
+### System Design Sketch: 
 
-Homepage: 
-Logo: 
+### Logo: 
 <img width="500" height="500" alt="SkillGardenLogo" src="https://github.com/user-attachments/assets/117cb489-d8ec-426f-a032-77ad08da521e" />
 
 ## Development Schedule
